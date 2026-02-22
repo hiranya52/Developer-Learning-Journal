@@ -9,8 +9,8 @@ This repository contains my personal learning notes, projects, and practical exe
 
 | Topic | Description | Link |
 |-------|-------------|------|
-| **Advanced Data Structures** | In-depth notes on Linked Lists, Stacks, Queues, Graphs, Trees, and Hash Maps | [Explore](advanced-data-structures/README.md) |
 | **Java** | Core Java concepts, OOP, Collections, Multithreading, JVM, and more | [Explore](java/README.md) |
+| **Advanced Data Structures** | In-depth notes on Linked Lists, Stacks, Queues, Graphs, Trees, and Hash Maps | [Explore](advanced-data-structures/README.md) |
 | **Angular** | Frontend development notes, routing, services, components, and best practices | [Explore](angular/README.md) |
 | **Backend** | Java/Spring Boot APIs, authentication, and backend logic | [Explore](backend/README.md) |
 | **Databases** | SQL, NoSQL, normalization, indexing, and query optimization | [Explore](databases/README.md) |
