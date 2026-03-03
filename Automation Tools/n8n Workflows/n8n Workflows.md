@@ -9,6 +9,8 @@ In today’s digital world, people use many apps and services to manage tasks. M
 
 n8n is an open source workflow automation tool that lets you connect different applications and automate tasks with minimal coding. It is similar to tools like Zapier or Integromat but offers more flexibility because it’s self-hosted and open source.
 
+<br>
+
 ### **With n8n, you can automate tasks like:**
 
 - Sending a thank-you email when someone submits a web form.
@@ -16,14 +18,19 @@ n8n is an open source workflow automation tool that lets you connect different a
 - Creating Slack notifications when a new customer signs up.
 - Generating weekly sales reports automatically.
 
-![Red](/assets/img/Img%201.png)
 
+<img src="/assets/img/Img 1.png" width="600">
+
+<br>
 
 ## **Key Features**
+
+<br>
 
 ##### ***Visual Workflow Designer***
 
 - n8n provides a drag and drop interface to design workflows. Each node represents an app or function, such as sending an email, saving data, or transforming information.
+
 
 ##### ***Wide Range of Integrations***
 
@@ -41,6 +48,8 @@ n8n is an open source workflow automation tool that lets you connect different a
 
 - Workflows can be triggered by events (like receiving a new email) or run on schedules. Actions define what happens after the trigger occurs.
 
+
+<br>
 
 ## **How n8n Works**
 
@@ -61,7 +70,11 @@ n8n is an open source workflow automation tool that lets you connect different a
 2. Notify the support team on Slack
 3. Create a task in Trello for follow-up
 
-![Red](/assets/img/Img%202.png)
+<br>
+
+<img src="/assets/img/Img 2.png" width="600">
+
+<br>
 
 ### ***Example 2: E-commerce Orders***
 
@@ -77,8 +90,11 @@ n8n is an open source workflow automation tool that lets you connect different a
 
 3. Notify the shipping team via Slack
 
-![Red](/assets/img//Img%203.png)
+<br>
 
+<img src="/assets/img/Img 3.png" width="600">
+
+<br>
 
 ## **Getting Started**
 
@@ -86,6 +102,7 @@ n8n is an open source workflow automation tool that lets you connect different a
 
 n8n can be installed via Docker, npm, or cloud platforms. Beginners may find the cloud version easiest to start with.
 
+<br>
 
 ### **Creating a Workflow**
 
@@ -102,6 +119,7 @@ n8n can be installed via Docker, npm, or cloud platforms. Beginners may find the
 
 Test workflows to ensure data flows correctly. n8n provides detailed logs to help debug issues.
 
+<br>
 
 ## **Why Use n8n?**
 
@@ -112,6 +130,8 @@ Test workflows to ensure data flows correctly. n8n provides detailed logs to hel
 - Build custom automations for your business needs
 
 - Control your data and privacy with self hosting
+
+<br>
 
 # **Conclusion**
 
