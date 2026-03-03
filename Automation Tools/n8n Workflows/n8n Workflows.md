@@ -62,3 +62,19 @@ n8n is an open source workflow automation tool that lets you connect different a
 3. Create a task in Trello for follow-up
 
 ![Red](/assets/img/Img%202.png)
+
+### ***Example 2: E-commerce Orders***
+
+- Trigger: Customer places an order on Shopify
+
+- Workflow: Collect order information
+
+- Actions:
+
+1. Update Google Sheets with order details
+
+2. Send a confirmation email to the customer
+
+3. Notify the shipping team via Slack
+
+![Red](/assets/img//Img%203.png)
