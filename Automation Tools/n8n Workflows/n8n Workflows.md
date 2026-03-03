@@ -78,3 +78,38 @@ n8n is an open source workflow automation tool that lets you connect different a
 3. Notify the shipping team via Slack
 
 ![Red](/assets/img//Img%203.png)
+
+
+## **Getting Started**
+
+### **Installation**
+
+n8n can be installed via Docker, npm, or cloud platforms. Beginners may find the cloud version easiest to start with.
+
+
+### **Creating a Workflow**
+
+1. Open n8n and create a new workflow.
+
+2. Choose a trigger node (e.g., Webhook or Cron).
+
+3. Add action nodes, connect them visually, and configure settings.
+
+4. Activate the workflow.
+
+
+### **Testing**
+
+Test workflows to ensure data flows correctly. n8n provides detailed logs to help debug issues.
+
+
+## **Why Use n8n?**
+
+- Save time on repetitive tasks
+
+- Reduce errors in data handling
+
+- Build custom automations for your business needs
+
+- Control your data and privacy with self hosting
+
