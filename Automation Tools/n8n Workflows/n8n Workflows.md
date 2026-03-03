@@ -16,6 +16,8 @@ n8n is an open source workflow automation tool that lets you connect different a
 - Creating Slack notifications when a new customer signs up.
 - Generating weekly sales reports automatically.
 
+![Red](/assets/img/Img%201.png)
+
 
 ## **Key Features**
 
@@ -47,3 +49,16 @@ n8n is an open source workflow automation tool that lets you connect different a
 ## ***Trigger → Workflow → Action***
 
 
+### ***Example 1: Customer Support Emails***
+
+- Trigger: New email received in Gmail
+
+- Workflow: Extract email content
+
+- Actions:
+
+1. Save email in a database
+2. Notify the support team on Slack
+3. Create a task in Trello for follow-up
+
+![Red](/assets/img/Img%202.png)
