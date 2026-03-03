@@ -25,7 +25,6 @@ n8n is an open source workflow automation tool that lets you connect different a
 
 ## **Key Features**
 
-<br>
 
 ##### ***Visual Workflow Designer***
 
@@ -53,7 +52,7 @@ n8n is an open source workflow automation tool that lets you connect different a
 
 ## **How n8n Works**
 
-### **At its core, n8n follows a simple flow:**
+#### **At its core, n8n follows a simple flow:**
 
 ## ***Trigger → Workflow → Action***
 
