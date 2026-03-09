@@ -1,0 +1,104 @@
+# OpenClaw: The Open-Source AI Agent That Lives on Your Machine
+
+> *Free. Local. Autonomous. Meet the AI agent built for people who believe their tools should belong to them.*
+
+---
+
+## What Is OpenClaw?
+
+OpenClaw is a **free, open-source autonomous AI agent** designed to run entirely on your local machine. Unlike cloud-based AI assistants that process your data on remote servers, OpenClaw connects large language models (LLMs) directly to your computer — giving AI real hands-on access to your files, browser, and applications.
+
+It doesn't just answer questions. It **acts**.
+
+Give OpenClaw a goal, and it figures out the steps, executes them, and reports back — all without sending your data anywhere you haven't approved.
+
+---
+
+## A Name With History
+
+OpenClaw didn't arrive fully formed. It evolved through two previous identities:
+
+- **Clawdbot** — The original experiment. A scrappy, early-stage bot exploring what it would look like to give an LLM real computer access. Rough around the edges, but full of promise.
+- **Moltbot** — Like a creature shedding its shell to grow, Moltbot represented a significant architectural rethink: more reliable, more extensible, more serious.
+- **OpenClaw** — The mature, community-driven platform it is today. The name is intentional: *open* in philosophy, with the grip to get real work done.
+
+Each iteration sharpened the vision: autonomous AI agency should be accessible to everyone, not locked behind subscriptions or corporate APIs.
+
+---
+
+## What Can It Actually Do?
+
+OpenClaw connects LLMs to your computer through a set of powerful, extensible capabilities:
+
+### 📁 File Management
+Create, edit, move, rename, and organize files and folders. Handle multi-step file operations that would normally require a script or manual effort.
+
+### 🌐 Web Browsing
+Navigate websites, fill out forms, extract information, and conduct research — all driven by natural language instructions.
+
+### 🖥️ App Control
+Interact with desktop applications directly. Automate repetitive workflows that used to require a human clicking through menus.
+
+### 🔗 LLM Agnostic
+OpenClaw isn't tied to a single model. Use it with OpenAI, Anthropic Claude, locally-run Ollama models, or any LLM backend you prefer.
+
+### 🔒 Fully Local by Default
+Your data stays on your machine. No telemetry, no cloud processing, no third-party data handling — unless you explicitly configure it otherwise.
+
+### 🛠️ Open Source & Auditable
+Every line of code is public. Fork it, inspect it, extend it. The community drives the roadmap.
+
+---
+
+## Why This Matters Right Now
+
+The AI agent space is exploding — but most of the momentum is toward **SaaS lock-in**: monthly subscriptions, cloud APIs, data you can't control, capabilities gated behind pricing tiers.
+
+OpenClaw is a direct counterpoint to that trajectory.
+
+There are people for whom this matters deeply:
+
+- **Developers** who want to automate local workflows without routing everything through an external API
+- **Researchers** working with sensitive data that can't leave their machine
+- **Privacy-conscious users** who are simply done with their tools phoning home
+- **Open-source advocates** who believe foundational software should be community-owned
+- **Tinkerers and indie hackers** who want to understand — and modify — exactly what their agent is doing
+
+For all of them, OpenClaw offers something rare: **a capable AI agent you actually own**.
+
+---
+
+## The Bigger Picture
+
+We are entering the era of agentic computing. AI that doesn't just assist — but plans, decides, and acts. The productivity implications are staggering, and they're already being felt.
+
+But with that power comes a critical question: **who controls the agent, and where does it run?**
+
+For most commercial solutions, the answer is: *the company does, in their cloud*. That's a reasonable trade-off for convenience. But it's not the only option — and for many use cases, it's not the right one.
+
+OpenClaw stakes a claim for a different future: one where autonomous AI runs locally, respects privacy, and belongs to its users. Not a product. A platform. A foundation others can build on.
+
+---
+
+## Getting Started
+
+OpenClaw is open source and actively developed. The best way to get involved:
+
+1. **Star the repository** on GitHub to follow development
+2. **Try it out** by following the setup guide in the docs
+3. **Contribute** — file issues, submit pull requests, or improve documentation
+4. **Join the community** — share what you build, report what breaks, help shape what comes next
+
+---
+
+## The Bottom Line
+
+OpenClaw is what happens when you take the idea of AI agency seriously — and refuse to accept that it has to come with strings attached.
+
+It's free. It's local. It's open. And it's getting better every day, in public, with the community.
+
+If you've ever wanted an AI that works *for* you — not for a platform — this is worth your attention.
+
+---
+
+*OpenClaw was formerly known as Clawdbot and Moltbot. It is free and open-source software.*
